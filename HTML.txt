@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Al-Mazin Bureau for Geological Consulting and Studies</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        .about {
+            margin-top: 20px;
+            text-align: justify;
+            direction: rtl;
+        }
+        .about p {
+            font-size: 18px;
+        }
+        .english {
+            text-align: left;
+            direction: ltr;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Al-Mazin Bureau for Geological Consulting and Studies</h1>
+
+    <img src="Screenshot 2025-03-27 230133.png" alt="Screenshot">
+
+    <div class="about">
+        <p>
+             تارﺎﺸﺘﺳﻷاو تﺎﺳارﺪﻠﻟ نزﺎـــﻤﻟا ﺐﺘﻜﻣ ﺲﺳﺄﺗ  ﺔﺒﺨﻧ ﺐﺘﻜﻤﻟا ﻢﻀﯾو (١٩٩٨) ﺔﻨﺳ ﺔﯿﺟﻮﻟﻮــﯿﺠﻟأ  ﻢﻠﻋ ﻲﻓ ﺔﻌــﺳاو تﻻﺎﺠﻣ ﻲﻓ ﻦﯿﯾرﺎــﺸﺘﺳﻷا ﻦﻣ
+ ىﺪﻟ لاﻮـــــط تاﻮﻨﺳ اﻮﻠﻤﻋ ﻦﻤﻣ ﺎـــﯿﺟﻮﻟﻮﯿﺠﻟا 
+           .ﺔﻗﻼﻌﻟا  تاذ  تﺎﺴﺳﺆﻤﻟاو ﺮﺋاوﺪﻟا
+روﺪﻟا زوﺎـــــﺠﺘﺗ ﺐﺘﻜﻤﻠﻟ ﺔﯿﻠﺒﻘﺘــﺴﻤﻟأ ىؤﺮﻟا نإ
+ ﻊﺿو ﻰﻟإ ﻻﻮﺻو ﺔﯾرﺎﺸﺘﺳﻷا ﺐﺗﺎﻜﻤﻠﻟ يﺪﯿﻠﻘﺘﻟأ                                             ً   ﺎﻣ ﻲﻓ قاﺮﻌﻟأ ﻊﺿﻮﻟ ﺔﺣﻮﻤط ﺔﯿﻠﺒﻘﺘــﺴﻣ ﻂﻄﺧ
+.مﺎـــﻘﻣ ﻦﻣ ﮫﻘﺤﺘﺴﯾ
+        </p>
+    </div>
+
+    <div class="about english">
+        <p>
+            Al-Mazin Bureau for Geological Studies and Consulting was established in (1998) and includes
+            a distinguished group of consultants in various fields of geology, many of whom have worked for years in relevant government departments and institutions.
+            The Bureau’s future vision goes beyond the traditional role of consulting firms, aiming to develop ambitious strategic plans to position Iraq in the place it rightfully deserves.
+        </p>
+       
+    </div>
+
+</body>
+</html>
